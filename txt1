@@ -1,0 +1,5 @@
+ec2-user:x:1000:1000:EC2 Default User:/home/ec2-user:/bin/bash
+nginx:x:995:993:Nginx web server:/var/lib/nginx:/sbin/nologin
+tcpdump:x:72:72::/:/sbin/nologin
+ec2-user:x:1000:1000:EC2 Default User:/home/ec2-user:/bin/bash
+nginx:x:995:993:Nginx web server:/var/lib/nginx:/sbin/nologin
