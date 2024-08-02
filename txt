@@ -1,7 +1,0 @@
-hello world
-this is a text file
-for demo purpose
-the blue lion jump over the red fox
-once upon a time there is ghost
-
-new line added for md5sum
