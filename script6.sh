@@ -1,7 +1,12 @@
 #!/bin/bash
 #script to do calc by taking input using spl var
 
-a=$1
-b=$2
+read -p "give a value: " a
+read -p "give b value: " b
+
+calc()
+{
 echo "add=$(($a+$b))"
-echo "sub=$(($a-b))"
+echo "sub=$(($a-$b))"
+}
+calc
